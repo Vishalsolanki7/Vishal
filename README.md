@@ -1,7 +1,7 @@
 # Vishal
 
 📫 **Let's connect! I can't wait to learn from you.** 
--  [Resume](https://github.com/Vishalsolanki7/Vishal/blob/776fc9f1cb6291f4cd2ee5a13bbb158fc32dca75/Resume.pdf)
+-  [Resume](https://github.com/Vishalsolanki7/Vishal/raw/776fc9f1cb6291f4cd2ee5a13bbb158fc32dca75/Resume.pdf)
 -  [LinkedIn](https://www.linkedin.com/in/vishalsolanki7696/)
 
 <!--
